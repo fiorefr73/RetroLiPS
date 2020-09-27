@@ -1,4 +1,4 @@
-# RetroLiPS
+# RetroLiPS - Retro Listings Preservation Society
 This project aims to safeguard the listings recovered from old computer magazines of the 80s and 90s. 
 
 All computers and programming languages are covered, there are no limitations.
